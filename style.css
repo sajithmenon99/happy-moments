@@ -1,0 +1,59 @@
+body {
+  font-family: 'Georgia', serif;
+  background: #fefdf9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background: #fff8ec;
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 1px solid #e6decf;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #6b4f4f;
+}
+
+header p {
+  margin: 0.5rem 0 0;
+  color: #9c7f7f;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.posts article {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.posts a {
+  color: #5a3e36;
+  text-decoration: none;
+}
+
+.posts a:hover {
+  text-decoration: underline;
+}
+
+.date {
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f9f4ea;
+  font-size: 0.9rem;
+}
